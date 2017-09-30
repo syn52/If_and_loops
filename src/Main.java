@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
 
     // Look up the documentation for Scanner and what methods are available
-    piblic Main() {
+    private Main() {
     Scanner input = new Scanner(System.in);
     int number1; // first number to compare
     int number2; // second number to compare
